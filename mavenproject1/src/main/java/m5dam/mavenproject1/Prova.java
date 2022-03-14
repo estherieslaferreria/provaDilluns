@@ -10,5 +10,8 @@ package m5dam.mavenproject1;
  * @author esther
  */
 public class Prova {
-    
+    public static void mostrar(){
+    System.out.println("nova modificacio");
+    System.out.println("hello   !!! world");
+    }
 }
