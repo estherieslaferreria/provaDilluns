@@ -12,6 +12,6 @@ package m5dam.mavenproject1;
 public class Prova {
     public static void mostrar(){
     System.out.println("nova modificacio");
-    System.out.println("hello   !!! world");
+    System.out.println("hello             !!! world");
     }
 }
